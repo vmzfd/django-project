@@ -39,6 +39,11 @@ aside ul li{
     display: block;
     margin-top: 20px;
     transition: transform .6s ease;
+    text-decoration: none;
+}
+
+aside ul a{
+    text-decoration: none;
 }
 
 aside ul li:hover, aside ul a:hover{
